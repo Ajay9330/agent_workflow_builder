@@ -1,6 +1,8 @@
-# Pipeline Builder
+# Agent Workflow Builder
 
 A drag-and-drop web application that allows users to design, build, and analyze workflow pipelines consisting of various nodes (Inputs, Outputs, Text, LLMs, Databases, APIs, etc.).
+
+<img src='image.png'/>
 
 ---
 
